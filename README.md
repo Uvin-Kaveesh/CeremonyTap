@@ -4,7 +4,7 @@
 
 CeremonyTap is a physical device that gives each guest a simple way to take part in a digital oil-lamp ceremony: tap a card, see the enclosure respond with light, and activate the guest's assigned lamp in a connected web experience. The same `CARD:UID` output can be adapted to other software or lighting installations.
 
-![CeremonyTap product visualization](media/render/ceremonytap-hero.png)
+![CeremonyTap product visualization](media/render/ceremonytap-hero.jpg)
 
 *Product visualization based on the built device. [See photographs of the real hardware](#physical-build).*
 
